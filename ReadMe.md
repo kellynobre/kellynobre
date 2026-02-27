@@ -1,5 +1,7 @@
 # 💫 About Me:
-Estudante de Ciências e Tecnologia (C&T) e técnica em informática, com 24 anos de idade. Atualmente, sou estagiária de front-end na Novadata e pesquisadora de inteligência artificial pelo CILAB.<br><br>Apaixonada por tecnologia, estou constantemente buscando por desafios empolgantes e oportunidades de aprendizado contínuo. 💻
+I have a degree in Science and Technology (S&T), a technical degree in computer science from IFRN, and I am currently an undergraduate student in computer engineering at UFERSA.
+
+Passionate about technology, I am constantly seeking exciting challenges and opportunities for continuous learning. 💻
 
 
 ## 🌐 Socials:
