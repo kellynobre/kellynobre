@@ -1,5 +1,5 @@
 # 💫 About Me:
-I have a degree in Science and Technology (S&T), a technical degree in computer science from IFRN, and I am currently an undergraduate student in computer engineering at UFERSA.
+I have a degree in Science and Technology (S&T), a technical degree in computer technician from IFRN, and I am currently an undergraduate student in computer engineering at UFERSA.
 
 Passionate about technology, I am constantly seeking exciting challenges and opportunities for continuous learning. 💻
 
