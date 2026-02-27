@@ -5,7 +5,6 @@ Passionate about technology, I am constantly seeking exciting challenges and opp
 
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@anakellyncosta) 
 LinkedIn: https://www.linkedin.com/in/anakellynobre
 
 # 💻 Tech Stack:
